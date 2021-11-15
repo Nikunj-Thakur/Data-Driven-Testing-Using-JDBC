@@ -12,11 +12,10 @@ This is a very basic project to show Data Driven Testing using JDBC connectivity
 ### >Multiple browsers handling for cross-browser testing
 ### >JIRA API integration to update the results in JIRA after the test execution
 
-# Sample Cucumber Report
-<img src=https://github.com/Nikunj-Thakur/Cucumber-BDD-Framework/blob/main/Cucumber_Report_1.PNG>
-
 # Sample Extent Report
-<img src=https://github.com/Nikunj-Thakur/Cucumber-BDD-Framework/blob/main/ExtentReport_Page_1.PNG>
+<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/login20211115103306.jpg>
 
-# Sample Extent PDF Report
+<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/login20211115103309.jpg>
+
+# Sample TestNG HTML Report
 <img src=https://github.com/Nikunj-Thakur/Cucumber-BDD-Framework/blob/main/Extent_PDF_Report_1.PNG>
