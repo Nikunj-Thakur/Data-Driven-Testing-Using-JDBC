@@ -13,9 +13,9 @@ This is a very basic project to show Data Driven Testing using JDBC connectivity
 ### >JIRA API integration to update the results in JIRA after the test execution
 
 # Sample Extent Report
-<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/login20211115103306.jpg>
+<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/ExtentReport1.png>
 
-<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/login20211115103309.jpg>
+<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/ExtentReport2.png>
 
 # Sample TestNG HTML Report
-<img src=https://github.com/Nikunj-Thakur/Cucumber-BDD-Framework/blob/main/Extent_PDF_Report_1.PNG>
+<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/Default_TestNG_HTML_Report.png>
