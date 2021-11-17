@@ -19,3 +19,6 @@ This is a very basic project to show Data Driven Testing using JDBC connectivity
 
 # Sample TestNG HTML Report
 <img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/Default_TestNG_HTML_Report.png>
+
+# Database Screenshot
+<img src=https://github.com/Nikunj-Thakur/Data-Driven-Testing-Using-JDBC/blob/main/TestsScreenshots/DBScreenshot.png>
